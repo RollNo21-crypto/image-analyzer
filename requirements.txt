@@ -1,0 +1,10 @@
+streamlit
+streamlit-authenticator
+google-genai
+python-dotenv
+boto3
+requests
+beautifulsoup4
+Pillow
+bcrypt
+pandas
